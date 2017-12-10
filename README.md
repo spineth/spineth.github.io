@@ -1,2 +1,2 @@
-# spineth.github.io
-An ethereum based guessing game
+# spineth
+An ethereum based guessing game: https://spineth.github.io/
